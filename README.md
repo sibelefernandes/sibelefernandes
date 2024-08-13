@@ -2,7 +2,7 @@
   
 Meu nome é Sibele Fernandes 
 
-- Estou estudando na alura 
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem Java script
 - utilizo esses espaço paradinha organização e compartilhamento dos meus projetos desenvolvidos 
 
@@ -11,5 +11,7 @@ Meu nome é Sibele Fernandes
 sibele.fernandes.santos@escola.pr.gov.br
 
 sibele_fernandez
+
+![](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
 
 
